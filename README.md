@@ -1,2 +1,9 @@
-# Kazi-Mahmudul-Hassan
-My personal repository
+# Kazi Mahmudul Hassan
+
+I am a researcher with over nine years of experience in machine learning, deep learning, and signal analysis, specializing in the development of advanced models for time-series data and their applications across diverse domains, including healthcare and beyond. I am currently serving as an Industry–Government–Academia Collaborative Researcher at the Tokyo University of Agriculture and Technology (TUAT), where my work integrates deep learning, attention-based architectures, Foundation model, and large language models (LLMs) to address complex challenges in brain signal analysis and related fields. <br>
+
+I hold a Ph.D. in Engineering, and my research has resulted in several significant contributions, including the development of the MR-EEGWaveNet model, which leverages multiresolution analysis for effective feature extraction in EEG data. I have also proposed a Riemannian geometry–based framework for anomaly detection and artifact handling in seizure detection. My expertise spans transfer learning, domain adaptation, and explainable AI, with a focus on improving the robustness and generalization of AI systems across varied domains. <br>
+
+I am an active member of the IEEE community and have served as a reviewer for multiple prestigious journals and conferences. My academic background, including a Master’s degree in Computer Science and prior experience as an Assistant Professor, reflects my strong commitment to advancing both research and education, particularly in Artificial Intelligence, Data Mining, and EEG signal processing.<br>
+
+I am always open to exciting opportunities and collaborations in AI, where my expertise in deep learning, transfer learning, and explainable AI can help drive impactful solutions across industries such as healthcare, technology, and beyond. I look forward to connecting and exploring how I can contribute to your team’s success.
